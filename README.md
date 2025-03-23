@@ -2,7 +2,7 @@
 
 ## Project Overview
 This repository contains the latest AnyLogic process mapping simulation for the USAF.
-The project aims to optimize staffing (PM allocation) across key processes at WR-ALC through data-driven insights provided directly from the MXSG team.
+The simulation aims to optimize staffing (PM allocation) across key processes (referred to in the simulation as teams/gates) at WR-ALC through data-driven insights provided directly from the MXSG team.
 
 ## Contributors
 - Matthew Chiaradio
