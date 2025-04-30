@@ -1,6 +1,6 @@
 LICENSE NOTICE
 
-This project was developed, by our team of four USF Capstone students, entirely using the AnyLogic Personal Learning Edition (PLE).  
+This project was developed by our team of four USF Capstone students entirely using the AnyLogic Personal Learning Edition (PLE).
 It is provided solely for educational and non-commercial purposes, in compliance with the AnyLogic PLE license agreement.
 
 No part of this work is intended for professional, commercial, or for-profit use.  
