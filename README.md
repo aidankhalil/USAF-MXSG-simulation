@@ -35,3 +35,11 @@ The simulation is designed to optimize Program Manager (PM) allocation across cr
 
 **Simulation Running in AnyLogic**  
 ![final-view](https://github.com/user-attachments/assets/d1b28b34-e546-4b49-8cd5-1836f11f04ec)
+
+
+
+### Disclaimer
+
+This project was developed entirely using the AnyLogic Personal Learning Edition (PLE).  
+It is intended for **educational and non-commercial purposes only**, in accordance with the AnyLogic PLE license agreement.  
+No part of this work is intended for professional, commercial, or for-profit use.
