@@ -2,6 +2,7 @@
 
 ## Project Overview
 This repository contains the final version of an AnyLogic process mapping simulation developed for the United States Air Force (USAF).  
+
 The simulation is designed to optimize Program Manager (PM) allocation across critical processes (referred to as *teams/gates*) at Warner Robins Air Logistics Complex (WR-ALC), using data-driven insights provided by the MXSG team.
 
 ## Contributors
